@@ -1,0 +1,25 @@
+{
+  "type": "module",
+  "name": "myjsonpackage",
+  "version": "1.0.0",
+  "description": "an express application",
+  "main": "main.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "no test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "khaoula",
+  "license": "ISC",
+  "dependencies": {
+    "papaparse": "^5.3.2"
+  }
+}
